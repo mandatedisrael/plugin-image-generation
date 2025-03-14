@@ -17,7 +17,7 @@ The Plugin Image Generation offers developers tools to handle image-related oper
 To install the plugin, use the following command:
 
 ```bash
-pnpm install plugin-image-generation
+pnpm install @elizaos/plugin-image-generation
 ```
 
 ## Configuration Requirements
